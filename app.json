@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "tracker208",
+    "slug": "tracker208",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "tracker208"
+}
